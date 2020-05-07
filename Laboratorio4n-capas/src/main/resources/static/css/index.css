@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+body {
+  	padding-left: 11em;
+  	font-family: Georgia, "Times New Roman",
+        Times, serif;
+ 	color: #800040;
+ 	padding-top: 5%;
+  	padding-right: 5%;
+  	padding-bottom: 5%;
+  	padding-left: 5%;
+  	background-color: #A9A9A9 }
+
+h1 {
+	padding-top: 3%;
+  	padding-right: 3%;
+  	padding-bottom: 3%;
+  	padding-left: 3%;
+  	font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif }
+        
+.box {
+  padding-top: 15px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 30px;
+}
+
+.container {
+  padding: 40px;
+}
